@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplitudeVisualizer", "AmplitudeVisualizer.csproj", "{CDF9ABA3-7323-44C8-A495-8D1497CAA42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF9ABA3-7323-44C8-A495-8D1497CAA42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF9ABA3-7323-44C8-A495-8D1497CAA42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF9ABA3-7323-44C8-A495-8D1497CAA42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF9ABA3-7323-44C8-A495-8D1497CAA42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C703B5-3824-4D70-8A9C-97497BDE3294}
+	EndGlobalSection
+EndGlobal
